@@ -1,0 +1,4 @@
+#Sun Sep 23 01:38:57 AST 2018
+base.0=/home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

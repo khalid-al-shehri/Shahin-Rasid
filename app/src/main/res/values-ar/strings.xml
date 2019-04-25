@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">أشحن رصيدك</string>
+    <string name="Charge">أشحن</string>
+    <string name="Cam">كاميرا</string>
+    <string name="Mic">مايكرفون</string>
+    <string name="Service">خدمة العملاء</string>
+    <string name="Balance">رصيدي</string>
+    <string name="Transfer">تحويل/طلب رصيد</string>
+    <string name="CallMe">اتصل بي</string>
+    <string name="Done">تم</string>
+    <string name="TakePicORPick">التقط صورة أو استخدم صورة من المعرض</string>
+    <string name="CardNumber">رقم البطاقة</string>
+    <string name="PhoneNumber">رقم الجوال</string>
+    <string name="Amount">الرصيد</string>
+    <string name="ID">الهوية</string>
+    <string name="ChooseNumber">اختار رقم</string>
+    <string name="AskAmount">طلب رصيد</string>
+    <string name="Cancel">إلغاء</string>
+    <string name="ChooseOperation">"أختار عملية "</string>
+    <string name="SendAmount">ارسال رصيد</string>
+    <string name="ChooseNumberToAsk">"أختار رقم لطلب رصيد منه "</string>
+    <string name="HowMuchAmount">قيمة الرصيد</string>
+    <string name="YourID">هويتك</string>
+    <string name="EnterAmount">أدخل قيمة رصيد</string>
+    <string name="EnterID">أدخل الهوية</string>
+    <string name="Send">أرسل</string>
+    <string name="Call">أتصل</string>
+    <string name="SMSfaild">فشل في الارسال ، حاول مرة اخرى</string>
+    <string name="FinishedSending">تم الارسال</string>
+    <string name="ChooseNumberToAskOrToSend">أختار رقم لطلب رصيد منه او التحويل إليه</string>
+    <string name="PleaseSendAmount">"الرجاء تحويل رصيد بقيمة "</string>
+    <string name="SRThanks">"ريال وشكرا "</string>
+    <string name="CopyNumber">تم النسخ ، الصق الرقم في الخطوة التالية</string>
+    <string name="NowSend">الان قم بإرسال الرسالة</string>
+    <string name="ShouldGetCardNumber">يجب ان تحصل على رقم بطاقة أولا</string>
+    <string name="YourDivceNotSupport">"جهازك لا يدعم التحدث "</string>
+    <string name="WriteCorrect">أدخل قيمة واحدة 5 | 10 | 15 | 20</string>
+    <string name="UseCameraOrGallery">التقط صورة (CAMERA) او ارفع صورة من المعرض (GALLERY)</string>
+    <string name="CheckRadioButton">الرجاء اختيار مزود خدمة</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:paddingTop="10dp"
+    >
+
+
+    <TextView
+        android:id="@+id/TVBalanceTransferZain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Transfer"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:paddingBottom="10dp"/>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/InputLayoutAmountZain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TVBalanceTransferZain">
+
+
+        <EditText
+            android:id="@+id/ETAmountZain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/HowMuchAmount"
+            android:inputType="number"
+            android:textColor="@color/Zain"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/BtnSendSMSZain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Send"
+        android:layout_below="@id/InputLayoutAmountZain"/>
+
+    <Button
+        android:id="@+id/BtnSendAmountZain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SendAmount"
+        android:layout_below="@id/BtnSendSMSZain"/>
+
+    <Button
+        android:id="@+id/BtnAskAmountZain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/AskAmount"
+        android:layout_below="@id/BtnSendAmountZain"/>
+
+</RelativeLayout>

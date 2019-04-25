@@ -1,0 +1,66 @@
+<resources>
+
+
+
+    <style name="MainTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="android:colorForeground">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:textColorPrimary">@color/ZainText</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColorPrimaryInverse">@color/ZainText</item>
+        <item name="colorPrimaryDark">@color/white</item>
+        <item name="android:spotShadowAlpha">0</item>
+        <item name="colorAccent">@color/white</item>
+        <item name="colorButtonNormal">@color/white</item>
+
+    </style>
+
+    <style name="ZainTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Zain</item>
+        <item name="android:colorForeground">@color/Zain</item>
+        <item name="android:navigationBarColor">@color/Zain</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColorPrimaryInverse">@color/ZainText</item>
+        <item name="colorPrimaryDark">@color/Zain</item>
+        <item name="colorAccent">@color/Zain</item>
+        <item name="colorButtonNormal">@color/Zain</item>
+
+    </style>
+
+
+
+    <style name="STCTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/STC</item>
+        <item name="android:colorForeground">@color/ZainText</item>
+        <item name="android:navigationBarColor">@color/STC</item>
+        <item name="android:textColorPrimary">@color/STCText</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColorPrimaryInverse">@color/ZainText</item>
+        <item name="colorPrimaryDark">@color/STC</item>
+        <item name="colorAccent">@color/STC</item>
+        <item name="colorButtonNormal">@color/STC</item>
+
+    </style>
+
+
+
+    <style name="MobilyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/Mobily</item>
+        <item name="android:colorForeground">@color/ZainText</item>
+        <item name="android:navigationBarColor">@color/Mobily</item>
+        <item name="android:textColorPrimary">@color/MobilyText</item>
+        <item name="android:colorBackground">@color/white</item>
+        <item name="android:textColorPrimaryInverse">@color/ZainText</item>
+        <item name="colorPrimaryDark">@color/Mobily</item>
+        <item name="colorAccent">@color/Mobily</item>
+        <item name="colorButtonNormal">@color/Mobily</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: me.zhouzhuo810.cameracardcrop:camera-card-crop:1.0.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-card-crop-1.0.5.aar/411853d9bea1d5dd21815f0f3eeca162/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/camera-card-crop-1.0.5.aar/411853d9bea1d5dd21815f0f3eeca162/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhouzhuo810.cameracardcrop/camera-card-crop/1.0.5/9e6eb87da9ba9418b7e3cfabab8827c69bb580f0/camera-card-crop-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

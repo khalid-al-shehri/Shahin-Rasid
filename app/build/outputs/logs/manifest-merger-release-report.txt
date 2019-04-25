@@ -1,0 +1,263 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5b9c09e5e8b19d5691b0c9a30f7aa068/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/intentanimation-1.0.aar/5b1a77492b4c2f1a6c6173c168eed286/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4996ede0cb6b429b63b483fba8658748/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/khalid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/f1f82f811b07d6ecfbba489ce8ec556e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.8.0.aar/38b5670d61ddce76c83489396a4252eb/AndroidManifest.xml:2:1-5:12
+MERGED from [com.github.mirrajabi:rx-contacts2:1.2.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/rx-contacts2-1.2.0.aar/149a9d911553c51946906b0ad9b66273/AndroidManifest.xml:2:1-16:12
+MERGED from [me.zhouzhuo810.cameracardcrop:camera-card-crop:1.0.5] /home/khalid/.gradle/caches/transforms-1/files-1.1/camera-card-crop-1.0.5.aar/35477b4ac367396ac55b0cf693ec0a20/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f23c8c139d1ccc99c014249123176d7e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/8daca8f286bcce6660dea2a1888c90a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/10da6bd7a92d20252eb735c8c7110540/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/6fad637491a69df785dd09613236fbea/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/85263d4599f103382299f15473110a8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6ad8f76518f60ea89e3b21f495fa0eaf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c2094fd40c68b1277ef0a12486444c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/941fc27a902e8129007235e524e53129/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8a219eecc2bf09720e0dee631638bd3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d242a30e02b82e55491d7028c9bbc232/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0cf22ade9f04b708d9c7318663d355a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8363b9ac3940ca31c1985c7b98ae223e/AndroidManifest.xml:17:1-22:12
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /home/khalid/.gradle/caches/transforms-1/files-1.1/crouton-1.8.5.aar/197ea2d69a82f713e464f418c2b29f26/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d81e8627513a05e257ec0b481030192a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/486512434097563c657c2d4886003b60/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6d183d55b615c5d92396b3fb36527010/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c7e31ca7642261106e357f2241356179/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:5:5-7:36
+	android:required
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:7:9-33
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:6:9-47
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:9:5-72
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:9:22-69
+uses-permission#android.permission.CALL_PHONE
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:10:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:13:22-62
+uses-permission#android.permission.SEND_SMS
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:14:22-64
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:17:19-67
+application
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:19:5-40:19
+MERGED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:15:5-34:19
+MERGED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:15:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/khalid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/f1f82f811b07d6ecfbba489ce8ec556e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/khalid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/f1f82f811b07d6ecfbba489ce8ec556e/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.8.0.aar/38b5670d61ddce76c83489396a4252eb/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.8.0.aar/38b5670d61ddce76c83489396a4252eb/AndroidManifest.xml:4:5-19
+MERGED from [com.github.mirrajabi:rx-contacts2:1.2.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/rx-contacts2-1.2.0.aar/149a9d911553c51946906b0ad9b66273/AndroidManifest.xml:11:5-14:38
+MERGED from [com.github.mirrajabi:rx-contacts2:1.2.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/rx-contacts2-1.2.0.aar/149a9d911553c51946906b0ad9b66273/AndroidManifest.xml:11:5-14:38
+MERGED from [me.zhouzhuo810.cameracardcrop:camera-card-crop:1.0.5] /home/khalid/.gradle/caches/transforms-1/files-1.1/camera-card-crop-1.0.5.aar/35477b4ac367396ac55b0cf693ec0a20/AndroidManifest.xml:11:5-15:19
+MERGED from [me.zhouzhuo810.cameracardcrop:camera-card-crop:1.0.5] /home/khalid/.gradle/caches/transforms-1/files-1.1/camera-card-crop-1.0.5.aar/35477b4ac367396ac55b0cf693ec0a20/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/10da6bd7a92d20252eb735c8c7110540/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/10da6bd7a92d20252eb735c8c7110540/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/6fad637491a69df785dd09613236fbea/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/6fad637491a69df785dd09613236fbea/AndroidManifest.xml:19:5-21:19
+	android:supportsRtl
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:25:9-41
+activity#com.kh09909.shahin_rasid.SplashPage
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:26:9-33:20
+	android:theme
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:26:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:31:27-74
+activity#com.kh09909.shahin_rasid.MainActivity
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:34:9-49
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:34:19-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:36:9-38:35
+	android:value
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:38:13-32
+	android:name
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml:37:13-70
+uses-sdk
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5b9c09e5e8b19d5691b0c9a30f7aa068/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/5b9c09e5e8b19d5691b0c9a30f7aa068/AndroidManifest.xml:20:5-44
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/intentanimation-1.0.aar/5b1a77492b4c2f1a6c6173c168eed286/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.hajiyevelnur92:intentanimation:1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/intentanimation-1.0.aar/5b1a77492b4c2f1a6c6173c168eed286/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4996ede0cb6b429b63b483fba8658748/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/4996ede0cb6b429b63b483fba8658748/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/khalid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/f1f82f811b07d6ecfbba489ce8ec556e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/khalid/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/f1f82f811b07d6ecfbba489ce8ec556e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.8.0.aar/38b5670d61ddce76c83489396a4252eb/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-vision-9.8.0.aar/38b5670d61ddce76c83489396a4252eb/AndroidManifest.xml:3:5-42
+MERGED from [com.github.mirrajabi:rx-contacts2:1.2.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/rx-contacts2-1.2.0.aar/149a9d911553c51946906b0ad9b66273/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mirrajabi:rx-contacts2:1.2.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/rx-contacts2-1.2.0.aar/149a9d911553c51946906b0ad9b66273/AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhouzhuo810.cameracardcrop:camera-card-crop:1.0.5] /home/khalid/.gradle/caches/transforms-1/files-1.1/camera-card-crop-1.0.5.aar/35477b4ac367396ac55b0cf693ec0a20/AndroidManifest.xml:7:5-9:41
+MERGED from [me.zhouzhuo810.cameracardcrop:camera-card-crop:1.0.5] /home/khalid/.gradle/caches/transforms-1/files-1.1/camera-card-crop-1.0.5.aar/35477b4ac367396ac55b0cf693ec0a20/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f23c8c139d1ccc99c014249123176d7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f23c8c139d1ccc99c014249123176d7e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/8daca8f286bcce6660dea2a1888c90a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/8daca8f286bcce6660dea2a1888c90a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/10da6bd7a92d20252eb735c8c7110540/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-tasks-9.8.0.aar/10da6bd7a92d20252eb735c8c7110540/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/6fad637491a69df785dd09613236fbea/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/6fad637491a69df785dd09613236fbea/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/85263d4599f103382299f15473110a8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/85263d4599f103382299f15473110a8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6ad8f76518f60ea89e3b21f495fa0eaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6ad8f76518f60ea89e3b21f495fa0eaf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c2094fd40c68b1277ef0a12486444c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2c2094fd40c68b1277ef0a12486444c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/941fc27a902e8129007235e524e53129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/941fc27a902e8129007235e524e53129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8a219eecc2bf09720e0dee631638bd3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/8a219eecc2bf09720e0dee631638bd3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d242a30e02b82e55491d7028c9bbc232/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d242a30e02b82e55491d7028c9bbc232/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0cf22ade9f04b708d9c7318663d355a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c0cf22ade9f04b708d9c7318663d355a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8363b9ac3940ca31c1985c7b98ae223e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/khalid/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8363b9ac3940ca31c1985c7b98ae223e/AndroidManifest.xml:20:5-44
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /home/khalid/.gradle/caches/transforms-1/files-1.1/crouton-1.8.5.aar/197ea2d69a82f713e464f418c2b29f26/AndroidManifest.xml:22:5-24:41
+MERGED from [de.keyboardsurfer.android.widget:crouton:1.8.5] /home/khalid/.gradle/caches/transforms-1/files-1.1/crouton-1.8.5.aar/197ea2d69a82f713e464f418c2b29f26/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d81e8627513a05e257ec0b481030192a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d81e8627513a05e257ec0b481030192a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/486512434097563c657c2d4886003b60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/486512434097563c657c2d4886003b60/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6d183d55b615c5d92396b3fb36527010/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6d183d55b615c5d92396b3fb36527010/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c7e31ca7642261106e357f2241356179/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c7e31ca7642261106e357f2241356179/AndroidManifest.xml:20:5-44
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+		ADDED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/src/main/AndroidManifest.xml
+permission#${applicationId}.provider.READ
+ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:11:17-62
+permission#com.kh09909.shahin_rasid.provider.READ
+ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:11:17-62
+uses-permission#${applicationId}.provider.READ
+ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:13:22-67
+uses-permission#com.kh09909.shahin_rasid.provider.READ
+ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:13:22-67
+activity#com.mikelau.croperino.CropImage
+ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:18:9-22:52
+	android:screenOrientation
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:19:13-59
+provider#android.support.v4.content.FileProvider
+ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:24:9-33:20
+	android:readPermission
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:29:13-68
+	android:grantUriPermissions
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:28:13-47
+	android:authorities
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:26:13-60
+	android:exported
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:25:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:30:13-32:58
+	android:resource
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:32:17-55
+	android:name
+		ADDED from [com.github.ekimual:croperino:1.1.7] /home/khalid/.gradle/caches/transforms-1/files-1.1/croperino-1.1.7.aar/7fd9c43b6f6a58ad006d5e607cd45928/AndroidManifest.xml:31:17-67
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-base-9.8.0.aar/42ae6498098aa6029d3e191c5a29861a/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/6fad637491a69df785dd09613236fbea/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/6fad637491a69df785dd09613236fbea/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /home/khalid/.gradle/caches/transforms-1/files-1.1/play-services-basement-9.8.0.aar/6fad637491a69df785dd09613236fbea/AndroidManifest.xml:20:20-65

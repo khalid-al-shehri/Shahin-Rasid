@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Shahin Rasid</string>
+    <string name="Charge">Charge</string>
+    <string name="Cam">Camera</string>
+    <string name="Mic">Mic</string>
+    <string name="Service">Service Center</string>
+    <string name="Balance">Balance</string>
+    <string name="Transfer">Balance Transfer</string>
+    <string name="CallMe">Call me</string>
+    <string name="Done">Done</string>
+    <string name="TakePicORPick">Take photo OR Load from gallary</string>
+    <string name="CardNumber">Card number</string>
+    <string name="PhoneNumber">Phone Number</string>
+    <string name="Amount">Amount</string>
+    <string name="ID">ID</string>
+    <string name="ChooseNumber">Choose Number</string>
+    <string name="AskAmount">Ask Amount</string>
+    <string name="Cancel">Cancel</string>
+    <string name="ChooseOperation">Choose Operation</string>
+    <string name="SendAmount">Send Amount</string>
+    <string name="ChooseNumberToAsk">Choose Number To Ask Amount</string>
+    <string name="HowMuchAmount">How much amount you want</string>
+    <string name="YourID">Your ID</string>
+    <string name="EnterAmount">Enter Amount</string>
+    <string name="EnterID">Enter ID</string>
+    <string name="Send">Send</string>
+    <string name="Call">Call</string>
+    <string name="SMSfaild">SMS faild, please try again later</string>
+    <string name="FinishedSending">Finished sending SMS</string>
+    <string name="ChooseNumberToAskOrToSend">Choose number to ask amount or to send</string>
+    <string name="PleaseSendAmount">Please send to me </string>
+    <string name="SRThanks">SR amount , Thanks</string>
+    <string name="CopyNumber">Cobied , paste the number next step</string>
+    <string name="NowSend">Now send this message</string>
+    <string name="ShouldGetCardNumber">Should get card number</string>
+    <string name="YourDivceNotSupport">Your divce do not support speech input</string>
+    <string name="WriteCorrect">Write one of these 5 | 10 | 15 | 20</string>
+    <string name="UseCameraOrGallery">Use camera or upload from gallery</string>
+
+
+    <string name="CheckRadioButton">Please choose service provider</string>
+
+
+</resources>

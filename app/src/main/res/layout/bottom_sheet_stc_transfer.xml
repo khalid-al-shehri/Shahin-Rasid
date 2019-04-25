@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:paddingTop="10dp"
+    >
+
+
+   <TextView
+       android:id="@+id/TVBalanceTransferSTC"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:text="@string/Transfer"
+       android:layout_centerHorizontal="true"
+       android:textSize="20dp"
+       android:paddingBottom="10dp"/>
+
+<android.support.design.widget.TextInputLayout
+    android:id="@+id/InputLayoutAmountSTC"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/TVBalanceTransferSTC">
+
+    <EditText
+        android:id="@+id/ETAmountSTC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/HowMuchAmount"
+        android:inputType="number"
+        android:textColor="@color/STC"/>
+
+
+</android.support.design.widget.TextInputLayout>
+
+
+
+
+    <Button
+        android:id="@+id/BtnSendSMSSTC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Send"
+        android:layout_below="@id/InputLayoutAmountSTC"/>
+
+    <Button
+        android:id="@+id/BtnSendAmountSTC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SendAmount"
+        android:layout_below="@id/BtnSendSMSSTC"/>
+
+    <Button
+        android:id="@+id/BtnAskAmountSTC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/AskAmount"
+        android:layout_below="@id/BtnSendAmountSTC"/>
+
+
+</RelativeLayout>

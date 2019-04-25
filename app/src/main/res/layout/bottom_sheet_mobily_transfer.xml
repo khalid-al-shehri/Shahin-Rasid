@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:paddingTop="10dp">
+
+
+
+    <TextView
+        android:id="@+id/TVBalanceTransferMobily"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Transfer"
+        android:layout_centerHorizontal="true"
+        android:textSize="20dp"
+        android:paddingBottom="10dp"/>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/InputLayoutAmountMobily"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TVBalanceTransferMobily">
+
+        <EditText
+            android:id="@+id/ETAmountMobily"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/HowMuchAmount"
+            android:inputType="number"
+            android:textColor="@color/Mobily"/>
+
+
+    </android.support.design.widget.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/BtnCallSMSMobily"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Call"
+        android:layout_below="@id/InputLayoutAmountMobily"/>
+
+
+    <Button
+        android:id="@+id/BtnSendAmountMobily"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SendAmount"
+        android:layout_below="@id/BtnCallSMSMobily"/>
+
+    <Button
+        android:id="@+id/BtnAskAmountMobily"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/AskAmount"
+        android:layout_below="@id/BtnSendAmountMobily"/>
+
+
+</RelativeLayout>

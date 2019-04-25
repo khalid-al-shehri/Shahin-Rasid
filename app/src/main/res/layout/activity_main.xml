@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:layout_centerHorizontal="true"
+    android:background="@color/white">
+
+
+
+
+        <RadioGroup
+            android:id="@+id/RadioGroup"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:orientation="horizontal"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="80dp"
+            >
+
+
+
+            <RadioButton
+                android:id="@+id/RBMobily"
+                android:scaleType="fitCenter"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginRight="15dp"
+                android:contextClickable="true"
+                android:button="@null"
+                android:drawableBottom="?android:attr/listChoiceIndicatorSingle"
+                android:text="Mobily"
+
+                />
+
+
+               <RadioButton
+                   android:id="@+id/RBSTC"
+                   android:text="STC"
+                   android:contextClickable="true"
+                   android:layout_marginRight="15dp"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:drawableBottom="?android:attr/listChoiceIndicatorSingle"
+                   android:button="@null"
+                   android:layout_centerHorizontal="true"
+
+                   />
+
+
+               <RadioButton
+                   android:id="@+id/RBZain"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginRight="15dp"
+                   android:text="Zain"
+                   android:contextClickable="true"
+                   android:layout_centerHorizontal="true"
+                   android:drawableBottom="?android:attr/listChoiceIndicatorSingle"
+                   android:button="@null"
+
+                   />
+
+        </RadioGroup>
+
+
+    <RelativeLayout
+        android:id="@+id/RelativeCompanies"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/RadioGroup"
+        android:gravity="center"
+        >
+
+
+        <ImageView
+            android:id="@+id/IVZain"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:src="@drawable/zain_on"
+            android:background="@color/white"
+            />
+
+        <ImageView
+            android:id="@+id/IVSTC"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_toEndOf="@+id/IVZain"
+            android:src="@drawable/stc_on"
+            android:background="@color/white"
+            />
+
+        <ImageView
+            android:id="@+id/IVMobily"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:clickable="true"
+            android:layout_toEndOf="@+id/IVSTC"
+            android:src="@drawable/mobily_on"
+            android:background="@color/white"
+            />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/RelativeMicCamCharge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/RelativeCompanies"
+        android:layout_marginTop="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="15dp"
+
+        >
+
+        <Button
+            android:id="@+id/BtnCharge"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:text="@string/Charge"
+            android:textSize="12dp"
+            android:layout_margin="5dp"
+            />
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/InputLayoutCardNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toEndOf="@+id/BtnCharge"
+            android:layout_toStartOf="@id/BtnCamAndGallary"
+            >
+
+            <EditText
+                android:id="@+id/ETCardNumber"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:hint="@string/CardNumber"
+                android:textSize="15dp"
+                android:textColorHint="@color/ZainText"
+                android:textColor="@color/ZainText"
+                android:layout_margin="5dp"
+                />
+
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/BtnMic"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:background="@drawable/ic_mic"
+            android:layout_centerVertical="true"
+            android:layout_alignParentEnd="true"
+            android:layout_margin="5dp"
+            />
+
+        <Button
+            android:id="@+id/BtnCamAndGallary"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:background="@drawable/ic_photo_camera"
+            android:layout_toStartOf="@+id/BtnMic"
+            android:layout_centerVertical="true"
+            android:layout_margin="5dp"
+            />
+
+
+
+
+
+    </RelativeLayout>
+
+<RelativeLayout
+    android:id="@+id/RelativeButtons"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/RelativeMicCamCharge"
+    android:layout_centerHorizontal="true">
+
+
+
+
+
+
+
+
+</RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/Relative3"
+        android:layout_below="@+id/RelativeMicCamCharge"
+        android:layout_marginTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="8dp"
+        android:paddingEnd="8dp"
+        android:layout_centerInParent="true"
+        android:orientation="horizontal"
+        android:weightSum="2">
+
+
+
+        <Button
+            android:id="@+id/BtnBalance"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@+id/BtnCallme"
+            android:text="@string/Balance"
+            android:layout_weight="1"
+
+
+            />
+
+
+        <Button
+            android:id="@+id/BtnCallme"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/CallMe"
+            android:layout_toEndOf="@+id/BtnBalance"
+            android:layout_weight="1"
+
+            />
+    </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/Relative4"
+            android:layout_below="@+id/Relative3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="8dp"
+            android:paddingEnd="8dp"
+            android:layout_centerInParent="true"
+            android:orientation="horizontal"
+            android:weightSum="2"
+
+            >
+
+            <Button
+                android:id="@+id/BtnServiceCenter"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Service"
+                android:layout_weight="1"
+                />
+            <Button
+                android:id="@+id/BtnBalancetransfer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/Transfer"
+                android:layout_toEndOf="@+id/BtnServiceCenter"
+                android:layout_weight="1"
+                />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Relative4">
+
+        <ImageView
+            android:id="@+id/NumberImage"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerHorizontal="true"
+            android:clickable="true"
+            android:scaleType="centerCrop"
+            android:layout_marginTop="20dp"/>
+
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

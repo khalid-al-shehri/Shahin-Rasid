@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Fri Jan 25 00:58:47 AST 2019
+1.base=/home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/home/khalid/Desktop/Programming_Files/MyProjects/Projects/Android/Shahin_Rasid/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+1.path=classes.dex

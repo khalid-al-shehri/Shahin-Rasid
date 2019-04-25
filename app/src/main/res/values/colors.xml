@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Zain">#A8C640</color>
+    <color name="STC">#753781</color>
+    <color name="Mobily">#159BD8</color>
+
+
+    <color name="ZainBar">#A8C640</color>
+    <color name="STCBar">#753781</color>
+    <color name="MobilyBar">#159BD8</color>
+
+    <color name="ZainText">#010101</color>
+    <color name="STCText">#FFFFFF</color>
+    <color name="MobilyText">#FFFFFF</color>
+
+</resources>
