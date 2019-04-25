@@ -28,7 +28,7 @@ An android project to recharge balance.
 
 From [google play](https://play.google.com/store/apps/details?id=com.kh09909.shahinrasid)<br />
 
-From [google drive](https://play.google.com/store/apps/details?id=com.kh09909.shahinrasid)<br />
+From [google drive](https://drive.google.com/open?id=160rGtEBj-TkNUI0VoH5QVkd8ARB_b4ov)<br />
 
 
 ## Screenshots
