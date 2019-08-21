@@ -5,8 +5,15 @@ An android project to recharge balance.
 ## Skills : 
 
 1. Java language<br />
-
 2. XML language<br />
+3. Send SMS Messages<br />
+4. Use camera, capture from camera<br />
+5. Pick images from gallery<br />
+6. Read Text from Images<br />
+7. Make calls<br />
+8. Read contacts from user's phone<br />
+9. Voice typing<br />
+
 
 <br />
 
@@ -40,4 +47,3 @@ From [google drive](https://drive.google.com/open?id=160rGtEBj-TkNUI0VoH5QVkd8AR
 <img src="/screenshots/3.jpg" width="280" height="500">
 
 <img src="/screenshots/4.jpg" width="280" height="500">
-# Shahin-Rasid
