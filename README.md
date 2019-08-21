@@ -33,11 +33,11 @@ From [google drive](https://drive.google.com/open?id=160rGtEBj-TkNUI0VoH5QVkd8AR
 
 ## Screenshots
 
-<img src="/screenshots/1.jpg">
+<img src="/screenshots/1.jpg" width="280" height="500">
 
-<img src="/screenshots/2.jpg">
+<img src="/screenshots/2.jpg" width="280" height="500">
 
-<img src="/screenshots/3.jpg">
+<img src="/screenshots/3.jpg" width="280" height="500">
 
-<img src="/screenshots/4.jpg">
+<img src="/screenshots/4.jpg" width="280" height="500">
 # Shahin-Rasid
